@@ -43,3 +43,7 @@ logback 1.0.13
 ----------------
 http://jknack.github.io/handlebars.java/  
 https://github.com/jknack/handlebars.java  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/heki1224/handlebars-springmvc-sample/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
