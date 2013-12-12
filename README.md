@@ -33,9 +33,9 @@ Eclipse 4.3
   
 依存ライブラリ(dependencies library)
 ----------------
-handlebars 1.1.0
-handlebars-springmvc 1.1.0
-spring-webmvc 3.2.3
+handlebars 1.1.0  
+handlebars-springmvc 1.1.0  
+spring-webmvc 3.2.3  
 slf4j 1.7.5  
 logback 1.0.13  
   
